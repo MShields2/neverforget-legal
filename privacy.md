@@ -5,7 +5,7 @@
 **Stand:** 19. Mai 2026  
 **App:** Never Forget – Nachrichtenplaner  
 **Anbieter:** 
-**Kontakt:** neverforget.neverforget@proton.me
+**Kontakt:** neverforget.feedback@proton.me
 
 ## 1. Überblick
 
@@ -66,7 +66,7 @@ Du hast das Recht auf:
 - Widerspruch (Art. 21)
 - Beschwerde bei einer Aufsichtsbehörde (Art. 77)
 
-Lokale Daten löschst du durch Deinstallation der App. Für RevenueCat-Daten kontaktiere uns unter neverforget.neverforget@proton.me — wir leiten Löschanfragen weiter.
+Lokale Daten löschst du durch Deinstallation der App. Für RevenueCat-Daten kontaktiere uns unter neverforget.feedback@proton.me — wir leiten Löschanfragen weiter.
 
 ## 8. Kinder
 
@@ -79,7 +79,7 @@ Wir behalten uns vor, diese Datenschutzrichtlinie anzupassen. Die aktuelle Versi
 ## 10. Kontakt
 
 Bei Fragen zum Datenschutz:  
-**E-Mail:** neverforget.neverforget@proton.me
+**E-Mail:** neverforget.feedback@proton.me
 
 
 # Englisch
@@ -89,7 +89,7 @@ Bei Fragen zum Datenschutz:
 **Last updated:** May 19, 2026
 **App:** Never Forget – Message Planner
 **Provider:** 
-**Contact:** neverforget.neverforget@proton.me
+**Contact:** neverforget.feedback@proton.me
 
 ## 1. Overview
 Your data is stored primarily on your device. We operate no servers. Third parties are used only for in-app purchases.
@@ -134,7 +134,7 @@ No analytics tools, no cross-app tracking, no ad networks, no crash reporters.
 ## 7. Your Rights (GDPR)
 Access, rectification, erasure, restriction, portability, objection, complaint with a supervisory authority.
 
-Local data: uninstalling the app deletes everything. RevenueCat data: send a request to neverforget.neverforget@proton.me.
+Local data: uninstalling the app deletes everything. RevenueCat data: send a request to neverforget.feedback@proton.me.
 
 ## 8. Children
 Not intended for children under 13. We do not knowingly collect data from children.
@@ -143,5 +143,5 @@ Not intended for children under 13. We do not knowingly collect data from childr
 Updates are published on this page.
 
 ## 10. Contact
-neverforget.neverforget@proton.me
+neverforget.feedback@proton.me
 
