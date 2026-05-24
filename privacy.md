@@ -115,18 +115,9 @@ When sending, the app opens iMessage, WhatsApp, Telegram, Signal, or Snapchat vi
 Transactions are processed by Apple Inc. → https://www.apple.com/legal/privacy/
 
 ### 5.2 RevenueCat
-We use RevenueCat, Inc. (USA) for subscription management.
+In the case of in-app payments, payment is made via RevenueCat Inc., 300 Euclid Avenue San Francisco, CA 94118, USA. to whom we pass on the information you provided during the ordering process together with the information about your order. Your data will be passed on in accordance with Article 6 Paragraph 1 Letter b GDPR exclusively for the purpose of payment processing and only to the extent that it is necessary for this. We have concluded an order processing contract with RevenueCat Inc., with which we oblige the provider to protect the data of the app users and not to pass it on to third parties.
 
-Processed data:
-- Anonymous user ID (UUID, no link to your identity)
-- Purchase history (subscription status, dates)
-- Device model, iOS version, app version, country
-- IP address (server-side processing, not persistently stored)
-
-**Purpose:** Provide Pro features, restore purchases, fraud prevention.
-**Legal basis:** Art. 6(1)(b) GDPR.
-**International transfer:** Data is processed in the USA under Standard Contractual Clauses (Art. 46 GDPR).
-**RevenueCat privacy:** https://www.revenuecat.com/privacy
+Further information on data protection by RevenueCat can be found here: https://www.revenuecat.com/privacy 
 
 ## 6. Analytics / Tracking / Advertising
 No analytics tools, no cross-app tracking, no ad networks, no crash reporters.
