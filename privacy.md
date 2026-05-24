@@ -1,3 +1,57 @@
+# Englisch
+
+# Privacy Policy
+
+**Last updated:** May 19, 2026
+**App:** Never Forget – Message Planner
+**Provider:** 
+**Contact:** neverforget.feedback@proton.me
+
+## 1. Overview
+Your data is stored primarily on your device. We operate no servers. Third parties are used only for in-app purchases.
+
+## 2. Locally Stored Data
+Stored via Apple SwiftData on your device only:
+- Scheduled messages (recipient, text, platform, time)
+- Attachments (within app sandbox)
+- Templates
+- App settings
+
+**Legal basis:** Art. 6(1)(b) GDPR (performance of contract).
+
+## 3. Notifications
+The app uses local iOS notifications (`UNUserNotificationCenter`). No push tokens, no server transmission.
+
+## 4. Access to Other Apps
+When sending, the app opens iMessage, WhatsApp, Telegram, Signal, or Snapchat via URL scheme. No data is transmitted to us. Processing is handled by the respective messenger provider.
+
+## 5. In-App Purchases
+
+### 5.1 Apple In-App Purchase
+Transactions are processed by Apple Inc. → https://www.apple.com/legal/privacy/
+
+### 5.2 RevenueCat
+In the case of in-app payments, payment is made via RevenueCat Inc., 300 Euclid Avenue San Francisco, CA 94118, USA. to whom we pass on the information you provided during the ordering process together with the information about your order. Your data will be passed on in accordance with Article 6 Paragraph 1 Letter b GDPR exclusively for the purpose of payment processing and only to the extent that it is necessary for this. We have concluded an order processing contract with RevenueCat Inc., with which we oblige the provider to protect the data of the app users and not to pass it on to third parties.
+
+Further information on data protection by RevenueCat can be found here: https://www.revenuecat.com/privacy 
+
+## 6. Analytics / Tracking / Advertising
+No analytics tools, no cross-app tracking, no ad networks, no crash reporters.
+
+## 7. Your Rights (GDPR)
+Access, rectification, erasure, restriction, portability, objection, complaint with a supervisory authority.
+
+Local data: uninstalling the app deletes everything. RevenueCat data: send a request to neverforget.feedback@proton.me.
+
+## 8. Children
+Not intended for children under 13. We do not knowingly collect data from children.
+
+## 9. Changes
+Updates are published on this page.
+
+## 10. Contact
+neverforget.feedback@proton.me
+
 # Deutsch
 
 # Datenschutzrichtlinie
@@ -81,58 +135,4 @@ Wir behalten uns vor, diese Datenschutzrichtlinie anzupassen. Die aktuelle Versi
 Bei Fragen zum Datenschutz:  
 **E-Mail:** neverforget.feedback@proton.me
 
-
-# Englisch
-
-# Privacy Policy
-
-**Last updated:** May 19, 2026
-**App:** Never Forget – Message Planner
-**Provider:** 
-**Contact:** neverforget.feedback@proton.me
-
-## 1. Overview
-Your data is stored primarily on your device. We operate no servers. Third parties are used only for in-app purchases.
-
-## 2. Locally Stored Data
-Stored via Apple SwiftData on your device only:
-- Scheduled messages (recipient, text, platform, time)
-- Attachments (within app sandbox)
-- Templates
-- App settings
-
-**Legal basis:** Art. 6(1)(b) GDPR (performance of contract).
-
-## 3. Notifications
-The app uses local iOS notifications (`UNUserNotificationCenter`). No push tokens, no server transmission.
-
-## 4. Access to Other Apps
-When sending, the app opens iMessage, WhatsApp, Telegram, Signal, or Snapchat via URL scheme. No data is transmitted to us. Processing is handled by the respective messenger provider.
-
-## 5. In-App Purchases
-
-### 5.1 Apple In-App Purchase
-Transactions are processed by Apple Inc. → https://www.apple.com/legal/privacy/
-
-### 5.2 RevenueCat
-In the case of in-app payments, payment is made via RevenueCat Inc., 300 Euclid Avenue San Francisco, CA 94118, USA. to whom we pass on the information you provided during the ordering process together with the information about your order. Your data will be passed on in accordance with Article 6 Paragraph 1 Letter b GDPR exclusively for the purpose of payment processing and only to the extent that it is necessary for this. We have concluded an order processing contract with RevenueCat Inc., with which we oblige the provider to protect the data of the app users and not to pass it on to third parties.
-
-Further information on data protection by RevenueCat can be found here: https://www.revenuecat.com/privacy 
-
-## 6. Analytics / Tracking / Advertising
-No analytics tools, no cross-app tracking, no ad networks, no crash reporters.
-
-## 7. Your Rights (GDPR)
-Access, rectification, erasure, restriction, portability, objection, complaint with a supervisory authority.
-
-Local data: uninstalling the app deletes everything. RevenueCat data: send a request to neverforget.feedback@proton.me.
-
-## 8. Children
-Not intended for children under 13. We do not knowingly collect data from children.
-
-## 9. Changes
-Updates are published on this page.
-
-## 10. Contact
-neverforget.feedback@proton.me
 
