@@ -4,7 +4,7 @@
 
 **Last updated:** May 19, 2026
 **App:** Never Forget – Message Planner
-**Provider:** Sebastian Johann, Lindelbrunnstraße 50, 76855 Annweiler am Trifels, Deutschland
+**Provider:** Sebastian Johann, Lindelbrunnstraße 50, 76855 Annweiler am Trifels, Germany
 **Contact:** neverforget.feedback@proton.me
 
 ## 1. Overview
